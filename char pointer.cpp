@@ -5,7 +5,7 @@ char const * const commandlist[] =
   "command 3",
 };
 
-const int MAX = 7;
+//const int MAX = 7;
 
 char const * const commandlist[] =
 {
