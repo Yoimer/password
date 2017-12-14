@@ -1,12 +1,3 @@
-  // commandlist[0] = "AT+SAPBR=3,1,\"Contype\",\"GPRS\"\r\n";                                // Sets GPRS Context
-  // commandlist[1] = "AT+SAPBR=3,1,\"APN\",\"internet.movistar.ve\"\r\n";                   // Sets APN
-  // commandlist[2] = "AT+SAPBR=1,1\r\n";                                                   // Connects to internet
-  // commandlist[3] = "AT+SAPBR=2,1\r\n";                                                  //  Gets DHCP IP given by provider
-  // commandlist[4] = "AT+HTTPINIT\r\n";                                                  //  Establishes HTTP session
-  // commandlist[5] = "AT+HTTPPARA=\"URL\",\"www.castillolk.com.ve/WhiteList.txt\"\r\n"; //  Defines Cloud
-  // commandlist[6] = "AT+HTTPACTION=0\r\n"; // GET function (has to response 200)
-
-
 char const * const commandlist[] =
 {
   "command 1",
