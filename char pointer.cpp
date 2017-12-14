@@ -8,16 +8,6 @@ char const * const commandlist[] =
   "command 6",
 };
 
-char const * const commandlist2[] =
-{
-  "command 1",
-  "command 2",
-  "command 3",
-  "command 4",
-  "command 5",
-  "command 6",
-};
-
 //const int MAX = 7;
 
 char const * const commandlist[] =
